@@ -4,4 +4,4 @@
 - 🧛‍♂️ I also love solving difficult problems in night.
 - 🌱 I’m currently learning Tree data structure and java script.
 - 💞️ I’m looking to contribute in open source.
-- 📫 How t reach me iamtusharpuri@gmail.com
+- 📫 How to reach me iamtusharpuri@gmail.com
