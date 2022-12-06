@@ -1,7 +1,7 @@
 - 🥷 Hi! I am a sophomore at Graphic Era Hill University.
 - 🎓 Pursuing B.Tech with major in Computer Science and Engineering.
--  😊 I enjoy programming in c and c++ but I am also broadening my horizonby learning python for Machine Learning.
--  🧛‍♂️ I also love solving difficult problems in night.
-- 🌱 I’m currently learning Tree data structure.
+- 😊 I enjoy programming in c and c++ but I am also broadening my horizon by learning python for Machine Learning.
+- 🧛‍♂️ I also love solving difficult problems in night.
+- 🌱 I’m currently learning Tree data structure and java script.
 - 💞️ I’m looking to contribute in open source.
 - 📫 How t reach me iamtusharpuri@gmail.com
