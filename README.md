@@ -9,11 +9,6 @@ I'm **Tushar Puri**
 - 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/tushar-puri-0b94201a8/)
 - 📫 How to reach me: iamtusharpuri@gmail.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TusharPuri10&theme=tokyonight-duo&border_radius=10.2&card_width=443)](https://git.io/streak-stats)
 
-### Visiter counter :
-
-![Visitor Count](https://profile-counter.glitch.me/TusharPuri10/count.svg)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TusharPuri10)
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TusharPuri10&show_icons=true&theme=great-gatsby)
+[![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharPuri10)](https://github.com/TusharPuri10/github-readme-stats)
